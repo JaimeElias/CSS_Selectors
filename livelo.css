@@ -1,0 +1,11 @@
+/* Mapeamento de elementos com CSS Selectors Livelo */
+
+/* Botão do Carrinho */
+element :seletorPorId,'#a-linkCart'
+
+/* Botão do Login */
+element :seletorPorId, '#a-buttonLogin'
+
+/* Botão de Cadastro */
+element :seletorPorId, '#a-clickLogin'
+

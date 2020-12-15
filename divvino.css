@@ -1,0 +1,28 @@
+/* Array de botões de categorias */
+<ul class="main_menu_ul">
+   <li><a href="https://www.divvino.com.br/clubed">ClubeD</a></li>
+   <li><a href="https://www.divvino.com.br/c/vinhos/_/N-3cgj4d?Nrpp=12">Vinhos</a></li>
+   <li><a href="https://www.divvino.com.br/c/cervejas/_/N-1s7mim7">Cervejas</a></li>
+   <li><a href="https://www.divvino.com.br/c/destilados/_/N-1tzbs97">Destilados</a></li>
+   <li><a href="https://www.divvino.com.br/c/gourmet/_/N-1971o21">Gourmet</a></li>
+   <li><a href="https://www.divvino.com.br/c/acessorios/_/N-15qn7mc">Acessórios</a></li>
+   <li><a href="https://www.divvino.com.br/blog" target="_blank" rel="noopener noreferrer">Blog</a></li>
+</ul>
+
+element :seletorPorClasse, '.main_menu_ul'
+
+/* Array de produtos (box do produto) */
+<div class="content-wrap js_box_prod">
+
+element :seletorPorClasse, '.content-wrap js_box_prod'
+
+/* Ícone de lupa da busca */
+<button type="submit" onclick="submitSearchBox(event)" class="icon-lupa"></button>
+
+element :seletorPorClasse, '.icon-lupa'
+
+/* Botão 'ir para o carrinho' */
+<div class="cart_line_label_goto_cart">Ir para o carrinho</div>
+
+element :seletorPorClasse, '.cart_line_label_goto_cart'
+
